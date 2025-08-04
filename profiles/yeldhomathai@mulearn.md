@@ -49,4 +49,4 @@ Driven by curiosity, adaptability, and a strong problem-solving mindset, I’m e
 
 #### Competitive Website Profiles:
 LINKEDIN:  https://www.linkedin.com/in/yeldho-mathai
-- I have built a competitive website profile showcasing my projects, skills, and achievements, designed with a user-friendly interface and optimized performance to reflect my technical expertise and professional identity.
+- I have built a competitive website profile showcasing my projects, skills, and achievements, designed with a user-friendly interface and optimized performance to reflect my technical expertise and professional identity
